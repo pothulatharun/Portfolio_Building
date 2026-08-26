@@ -1,0 +1,7 @@
+While setting up Git and connecting it to GitHub, I faced a few problems.
+First, Git was not installed properly, so the git command was not recognized in CMD.
+I also had some confusion while setting up my Git username and email.
+Connecting the local project to the GitHub repository was a little confusing at first.
+I faced issues with GitHub authentication while trying to push the code.
+I also had to understand the difference between git add, git commit, and git push.
+After fixing these issues, I was able to successfully connect Git with GitHub and push my project.
