@@ -1,7 +1,4 @@
-While setting up Git and connecting it to GitHub, I faced a few problems.
-First, Git was not installed properly, so the git command was not recognized in CMD.
-I also had some confusion while setting up my Git username and email.
-Connecting the local project to the GitHub repository was a little confusing at first.
-I faced issues with GitHub authentication while trying to push the code.
-I also had to understand the difference between git add, git commit, and git push.
-After fixing these issues, I was able to successfully connect Git with GitHub and push my project.
+VS Code vs GCC: VS Code is an editor used to write and manage C/C++ code, while GCC is the compiler that converts the code into a program the computer can run. Both are needed because VS Code helps us write the code easily, and GCC actually compiles it.
+PATH variable: PATH tells Windows where to look for programs when we type commands in the terminal. Before adding GCC to PATH, Windows didn't know where gcc.exe was located, so the gcc command was not recognized.
+C/C++ extension: The C/C++ extension makes coding in VS Code easier by providing features like error detection, code suggestions, debugging, and IntelliSense. GCC still does the actual compilation.
+Most common error: The most common issue was getting “gcc is not recognized as an internal or external command.” It was fixed by adding the GCC bin folder to the Windows PATH environment variable and then reopening the terminal.
