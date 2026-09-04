@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "MethodOverriding",
+            "request": "launch",
+            "mainClass": "MethodOverriding",
+            "projectName": "Portfolio Building_bf6b9cb"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "Portfolio Building_bf6b9cb"
+        },
+        {
             "name": "Launch",
             "type": "lldb",
             "request": "launch",
