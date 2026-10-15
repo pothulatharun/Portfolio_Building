@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Outer",
+            "request": "launch",
+            "mainClass": "MyPack.Outer",
+            "projectName": "Portfolio Building_e7f25ca2"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Portfolio Building_e7f25ca2"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "Portfolio Building_bf6b9cb"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Portfolio Building_bf6b9cb"
+        },
+        {
+            "type": "java",
             "name": "MethodOverriding",
             "request": "launch",
             "mainClass": "MethodOverriding",
